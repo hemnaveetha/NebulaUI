@@ -1,0 +1,79 @@
+/* .register-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('https://img.freepik.com/free-photo/lion-pride-dry-forest_23-2151661682.jpg?uid=R119970806&ga=GA1.1.2009190256.1721713402&semt=ais_user') no-repeat center center/cover;
+  }
+  
+  .register-form {
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #4A0A1A;
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .register-form h2 {
+    margin-bottom: 20px;
+    font-size: 22px;
+    color: #4A0A1A;
+    text-align: center;
+  }
+
+  .register-form ::placeholder{
+    color: #a53860;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    background-color: #4A0A1A;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 15px;
+    font-size: 16px;
+    max-width: 260px;
+    border: 1px solid #4A0A1A;
+  }
+
+  .form-group input:focus {
+    border-color: #a53860;
+    outline: none;
+  }
+  
+  .register-button {
+    width: 40%;
+    padding: 10px;
+    background-color: #4A0A1A;
+    color: #e6e3e3;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .register-button:hover {
+    background-color: #a53860;
+  }
+  
+  .login-link {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  .login-link a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .login-link a:hover {
+    text-decoration: underline;
+  } */
